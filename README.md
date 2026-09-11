@@ -6,6 +6,21 @@ This project analyzes customer churn using customer, subscription, and support d
 
 The objective is to understand customer churn patterns, calculate important business KPIs, explore customer behavior, and identify areas that may support customer retention strategies.
 
+## Project Preview
+
+### Executive Summary
+
+![Executive Summary](images/executive_summary.png)
+
+### Churn by Plan
+
+![Churn by Plan](images/churn_by_plan.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+
 ## Business Questions
 
 - What is the overall customer churn rate?
